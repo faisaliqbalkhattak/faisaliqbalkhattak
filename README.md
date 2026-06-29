@@ -22,41 +22,126 @@ I enjoy building software that solves real problems and understanding how system
 
 <b>Languages</b><br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+     alt="JavaScript"
+     title="JavaScript"
+     height="35"/>
+
+Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     alt="Python"
+     title="Python"
+     height="35"/>
+
+C++
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+     alt="C++"
+     title="C++"
+     height="35"/>
+
+Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+     alt="Java"
+     title="Java"
+     height="35"/>
+
+MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+     alt="MySQL"
+     title="MySQL"
+     height="35"/>
 
 <br><br>
 
 <b>Backend & Databases</b><br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+Node.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+     alt="Node.js"
+     title="Node.js"
+     height="35"/>
+
+Express.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+     alt="Express.js"
+     title="Express.js"
+     height="35"/>
+
+MongoDB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+     alt="MongoDB"
+     title="MongoDB"
+     height="35"/>
+
+SQLite
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+     alt="SQLite"
+     title="SQLite"
+     height="35"/>
 
 <br><br>
 
 <b>Frontend</b><br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+     alt="React"
+     title="React"
+     height="35"/>
+
+HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+     alt="HTML5"
+     title="HTML5"
+     height="35"/>
+
+CSS3
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+     alt="CSS3"
+     title="CSS3"
+     height="35"/>
 
 <br><br>
 
 <b>Tools & Platforms</b><br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+     alt="Git"
+     title="Git"
+     height="35"/>
 
-</p>
+GitHub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+     alt="GitHub"
+     title="GitHub"
+     height="35"/>
+
+Linux
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+     alt="Linux"
+     title="Linux"
+     height="35"/>
+
+Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+     alt="Docker"
+     title="Docker"
+     height="35"/>
+
+Google Cloud Platform
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+     alt="Google Cloud Platform"
+     title="Google Cloud Platform"
+     height="35"/>
+
+VS Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+     alt="Visual Studio Code"
+     title="Visual Studio Code"
+     height="35"/>
+
 
 ---
 
@@ -132,14 +217,17 @@ Bachelor of Software Engineering (2023 – 2027)
 <a href="https://faisaliqbalkhattak.github.io/portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/faisaliqbalkhattak" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+  
 <a href="https://github.com/faisaliqbalkhattak" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:fiqbal.bese23seecs@seecs.edu.pk">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
