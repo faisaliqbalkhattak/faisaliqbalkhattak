@@ -31,7 +31,8 @@ I enjoy building software that solves real problems and understanding how system
 
 ### Scrambled Canvas Parser
 
-An application capable of reconstructing the scrambled images retrieved from a book reading platform and make a single book out of it.
+Reverse-engineered front-end coordinate mappings of digital preview platforms to bypass asset fragmentation. Spawns concurrent CPU worker threads in Python to fetch and stitch image tiles concurrently, streaming real-time compilation logs via Server-Sent Events (SSE).
+
 - Python
 - Flask
 - Multithreading
