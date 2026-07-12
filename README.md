@@ -1,5 +1,10 @@
 # Hi, I'm Faisal Iqbal
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
 Software Engineering student at **NUST Islamabad** interested in Backend Engineering, Artificial Intelligence, Machine Learning, Algorithms, and Mathematics.
 
 I enjoy building software that solves real problems and understanding how systems work under the hood. Most of my projects focus on backend architecture, APIs, databases, and designing reliable software rather than simply building user interfaces.
