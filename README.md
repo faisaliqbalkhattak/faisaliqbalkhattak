@@ -8,11 +8,11 @@ I enjoy building software that solves real problems and understanding how system
 
 ## Currently Working On
 
-- Building full-stack applications with the MERN stack
-- Backend system design and REST APIs
-- Distributed systems and peer-to-peer applications
+- Making a companian device, using cloud backend, esp32 for communication and other advance technologies.
+- Backend system design and communication over networks
 - Machine Learning
 - Learning Formal Methods and Software Verification
+- Web dev Internship
 
 ---
 ## Tech Stack
@@ -29,6 +29,18 @@ I enjoy building software that solves real problems and understanding how system
 
 ## Featured Projects
 
+### Scrambled Canvas Parser
+
+An application capable of reconstructing the scrambled images retrieved from a book reading platform and make a single book out of it.
+- Python
+- Flask
+- Multithreading
+- SSE (server sent events)
+- Pillow
+- HTML / CSS
+
+---
+
 ### Afwaah — Decentralized Rumor Verification
 
 A peer-to-peer rumor verification platform built during the NUST Olympiad Hackathon.
@@ -43,19 +55,19 @@ A peer-to-peer rumor verification platform built during the NUST Olympiad Hackat
 
 ---
 
-### PeerSupportHub
-
-A mentoring and accountability platform that connects students with mentors and peers to build better habits.
-
-Worked mainly on the backend architecture, MongoDB schema design, authentication, and API development.
-
----
-
 ### Asset Management System
 
 A desktop application built with React, Electron, Express, and SQLite.
 
 Designed the database architecture and implemented inventory, finance, and personnel management with automated reporting.
+
+---
+
+### PeerSupportHub
+
+A mentoring and accountability platform that connects students with mentors and peers to build better habits.
+
+Worked mainly on the backend architecture, MongoDB schema design, authentication, and API development.
 
 ---
 
