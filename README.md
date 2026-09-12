@@ -53,7 +53,7 @@ Designed circuit schematics and power distribution for ESP32 microcontrollers wi
 
 - **Tech:** ESP32, Ultrasonic/TDS Sensors, IoT Telemetry, Unity 3D, Digital Twins
 - 🏆 **Achievement:** 1st Place — Best Digital Twin Category (Erasmus+ CATCH_VR Bootcamp 2026 out of 33 submissions)
-- 🔗 **GitHub:** [scrambled-canvas-parser Repository](https://github.com/faisaliqbalkhattak/aquatwin-ground-water-monitoring-system) | 🌐 **Video Demo:** [YouTube]([https://karaqi.streamlit.app](https://www.youtube.com/watch?v=bF89kUjpgoE))
+- 🔗 **GitHub:** [github/aquatwin](https://github.com/faisaliqbalkhattak/aquatwin-ground-water-monitoring-system) | 🌐 **Video Demo:** [YouTube](https://www.youtube.com/watch?v=bF89kUjpgoE)
 
 ---
 
