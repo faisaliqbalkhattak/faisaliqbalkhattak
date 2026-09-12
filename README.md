@@ -1,23 +1,3 @@
-# Hi, I'm Faisal Iqbal
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
-Software Engineering student at **NUST Islamabad** interested in Backend Engineering, Artificial Intelligence, Machine Learning, Algorithms, and Mathematics.
-
-I enjoy building software that solves real problems and understanding how systems work under the hood. Most of my projects focus on backend architecture, APIs, databases, and designing reliable software rather than simply building user interfaces.
-
----
-
-## Currently Working On
-
-- Making a companian device, using cloud backend, esp32 for communication and other advance technologies.
-- Backend system design and communication over networks
-- Machine Learning
-- Learning Formal Methods and Software Verification
-- Web dev Internship
 
 ---
 ## Tech Stack
@@ -32,81 +12,86 @@ I enjoy building software that solves real problems and understanding how system
 | | | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height="22"/> VS Code |
 
 
-## Featured Projects
 
-### Scrambled Canvas Parser
+# Hi, I'm Faisal Iqbal
 
-Reverse-engineered front-end coordinate mappings of digital preview platforms to bypass asset fragmentation. Spawns concurrent CPU worker threads in Python to fetch and stitch image tiles concurrently, streaming real-time compilation logs via Server-Sent Events (SSE).
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-- Python
-- Flask
-- Multithreading
-- SSE (server sent events)
-- Pillow
-- HTML / CSS
+Software Engineering student at **NUST Islamabad** with a strong focus on Machine Learning & MLOps, Time-Series Forecasting, Embedded Systems/IoT, and Full-Stack Systems Architecture.
+
+I enjoy engineering reliable end-to-end systems—ranging from automated MLOps retraining pipelines and telemetry streams to hardware-software integration for real-time digital twins.
 
 ---
 
-### Afwaah — Decentralized Rumor Verification
+## ⚡ Currently Working On
 
-A peer-to-peer rumor verification platform built during the NUST Olympiad Hackathon.
-
-- libp2p
-- OrbitDB
-- Semaphore V4
-- Bayesian Truth Serum
-- Zero-Knowledge Proofs
-
-**Achievement:** Top 5 Finalist — NUST Olympiad Hackathon 2026
+- **IoT & Telemetry Systems:** Designing companion hardware using ESP32 microcontrollers and cloud backend communication for real-time sensor streams.
+- **MLOps & Automation:** Continuous model retraining, experiment tracking (MLflow), and automated deployment pipelines via GitHub Actions.
+- **Systems & Web Architecture:** Developing responsive web applications and high-throughput data processing engines.
 
 ---
 
-### Asset Management System
+## 🛠️ Tech Stack
 
-A desktop application built with React, Electron, Express, and SQLite.
-
-Designed the database architecture and implemented inventory, finance, and personnel management with automated reporting.
-
----
-
-### PeerSupportHub
-
-A mentoring and accountability platform that connects students with mentors and peers to build better habits.
-
-Worked mainly on the backend architecture, MongoDB schema design, authentication, and API development.
+| **Languages** | **Backend, ML & Databases** | **IoT & Visualization** | **Tools & Infrastructure** |
+|:-------------|:----------------------------|:------------------------|:---------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="20"/> Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="20"/> PyTorch | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity 3D" height="20"/> Unity 3D | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="20"/> Docker |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" height="20"/> Scikit-Learn | **ESP32 Microcontrollers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="20"/> Git & GitHub Actions |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="20"/> C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20"/> Node.js / Express | **Sensors & Telemetry** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="20"/> Linux |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="20"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="20"/> Flask / Streamlit | **Digital Twins / VR** | **MLflow** |
+| HTML5 / CSS3 | DuckDB / PostgreSQL / MongoDB | HTML5 Canvas (3D Physics) | Vercel / Cloud Infrastructure |
 
 ---
 
-## Experience
+## 🚀 Featured Projects
 
-### AgriStreams — Cyber Security Intern
+### karAQI — Self-Training 72-Hour Air Quality Forecasting Pipeline
+A continuous time-series forecasting pipeline achieving an **8.89 RMSE** (38% improvement over baseline models). Features automated data ingestion in DuckDB, experiment tracking with MLflow, automated deployment via GitHub Actions, and an interactive Streamlit dashboard.
 
-- Machine Learning for malicious request detection
-- Web Application Firewall (WAF)
-- Request analysis
-
-### OneScreen — Dataset Preparation Contract
-
-- Data collection
-- Cleaning and preprocessing
-- Dataset preparation for Machine Learning models
+- **Tech:** Python, DuckDB, MLflow, GitHub Actions, Streamlit, Scikit-learn
+- 🔗 **GitHub:** [karAQI Repository](https://github.com/faisaliqbalkhattak/karAQI) | 🌐 **Live Dashboard:** [karaqi.streamlit.app](https://karaqi.streamlit.app)
 
 ---
 
-## Education
+### AquaTwin — Smart Subterranean Water Telemetry & 3D Digital Twin
+Designed circuit schematics and power distribution for ESP32 microcontrollers with ultrasonic drawdown distance and TDS sensors. Built a cloud telemetry pipeline aggregating real-time data streams to dynamically drive a 3D Unity spatial visualization.
 
-**National University of Sciences and Technology (NUST)**
-
-Bachelor of Software Engineering (2023 – 2027)
-
-**CGPA:** 3.34 / 4.00
+- **Tech:** ESP32, Ultrasonic/TDS Sensors, IoT Telemetry, Unity 3D, Digital Twins
+- 🏆 **Achievement:** 1st Place — Best Digital Twin Category (Erasmus+ CATCH_VR Bootcamp 2026 out of 33 submissions)
+- 🔗 **GitHub:** [scrambled-canvas-parser Repository](https://github.com/faisaliqbalkhattak/aquatwin-ground-water-monitoring-system) | 🌐 **Video Demo:** [YouTube]([https://karaqi.streamlit.app](https://www.youtube.com/watch?v=bF89kUjpgoE))
 
 ---
 
-## Achievements
+### Document Reconstruction Engine (Scrambled Canvas Parser)
+Reverse-engineered client-side image obfuscation on digital library assets. Built a multi-threaded Python engine to concurrently fetch and decrypt image matrices based on coordinate mappings, streaming real-time compilation progress to a Flask/JS interface via Server-Sent Events (SSE).
 
-- 🥇 1st Place — S³C Design Competition 2026
-- 🏆 Top 5 Finalist — NUST Olympiad Hackathon 2026
+- **Tech:** Python, Flask, Multithreading, SSE, Pillow, JavaScript
+- 🔗 **GitHub:** [scrambled-canvas-parser Repository](https://github.com/faisaliqbalkhattak/scrambled-canvas-parser)
+
+---
+
+## 💼 Experience
+
+- **10Pearls** — Machine Learning / Data Science Intern (Shine Program) *(Jul 2026 – Sep 2026)* *ML architecture reviews, predictive baseline modeling, and MLOps automation with GitHub Actions & MLflow.*
+- **Geomorph** — Frontend Intern *(Jul 2026 – Aug 2026)* *Built zero-dependency pseudo-3D HTML5 Canvas animation models and MDX serverless publishing system.*
+- **AgriStreams** — Cyber Security Intern  
+  *Applied Machine Learning algorithms for malicious network request detection and Web Application Firewalls (WAF).*
+
+---
+
+## 🎓 Education
+
+**National University of Sciences and Technology (NUST)** *Bachelor of Engineering in Software Engineering (2023 – 2027)* - **CGPA:** 3.34 / 4.00
+
+---
+
+## 🏆 Achievements
+
+- 🏆 **1st Place (Best Digital Twin Category)** — Erasmus+ CATCH_VR Summer Bootcamp 2026 *(Ranked #1 out of 33 project submissions)*
+- 🥇 **1st Place** — S³C Design Competition 2026, NUST
+- 🎯 **Top 5 Finalist** — NUST Olympiad Hackathon 2026
 
 ---
 
@@ -114,20 +99,20 @@ Bachelor of Software Engineering (2023 – 2027)
 
 <p align="left">
 
-<a href="https://faisaliqbalkhattak.github.io/portfolio/" target="_blank">
+<a href="https://faisaliqbalkhattak.me/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/faisaliqbalkhattak" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-  
+&nbsp;&nbsp;
+
 <a href="https://github.com/faisaliqbalkhattak" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:fiqbal.bese23seecs@seecs.edu.pk">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
